@@ -1,0 +1,7 @@
+# Большие файлы изображений
+case_screen/full_*.png
+case_screen/full_*.jpg
+
+# Временные файлы
+.DS_Store
+*.tmp 
